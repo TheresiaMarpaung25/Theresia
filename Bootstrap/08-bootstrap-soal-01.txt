@@ -1,0 +1,14 @@
+1. CSS Framework CSS framework adalah kerangka kerja yang fungsinya untuk memudahkan ketika mendesain website atau aplikasi, tepatnya di bagian layout dan tema.
+2 TIDAK. Ada beberapa CSS Framework selain Bootstrap yang dapat digunakan untuk mendesain website atau aplikasi. 
+3. Fremework selain Bootstrap antara lain: 
+   a. UI mustard
+   b. Specter
+   c. Bulma
+   d. UI Kit
+   e. TentCSS
+   d. MaterializeCSS
+   e. Foundation
+   f. SematicUI
+   g. Base
+   h. MUI
+4. cara menggunakan bootstrap ialah dengan meng-copy dari dokumentasi jsdelivr bootstrap ke workspace html.
