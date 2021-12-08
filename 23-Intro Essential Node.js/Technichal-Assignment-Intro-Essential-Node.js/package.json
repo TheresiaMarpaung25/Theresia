@@ -1,0 +1,25 @@
+{
+  "name": "technichal-assignment-intro-essential-node",
+  "version": "1.0.0",
+  "description": "Tugas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purify12/Technichal-Assignment-Intro-Essential-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purify12/Technichal-Assignment-Intro-Essential-Node.js/issues"
+  },
+  "homepage": "https://github.com/Purify12/Technichal-Assignment-Intro-Essential-Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
