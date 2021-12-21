@@ -21,10 +21,10 @@ DELETE DATA
 DATA EXAMPLE:
 ```json
 {
-    "name": "Putra Harianja",
-    "dateofbirth": "2000-06-07",
-    "address": "balige",
-    "mobile_number": "0890000000"
+    "name": "Theresia Marpaung",
+    "dateofbirth": "2000-10-25",
+    "address": "medan",
+    "mobile_number": "0853xxxxxx"
 }
 ```
 
