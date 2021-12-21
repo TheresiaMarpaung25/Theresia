@@ -12,11 +12,11 @@ One-to-One Relationships
 {
     "_id": ObjectId("612d1e835ebee16872a109a4"),
     "full_name": {
-        "first_name": "Putra",
-        "last_name": "Harianja"
+        "first_name": "Theresia",
+        "last_name": "Marpaung"
     },
-    "email": "putra@mail.com",
-    "phone": "08982823170"
+    "email": "theresiamarpaung2@gmail.com",
+    "phone": "085376983090"
 }
 ```
 
@@ -34,18 +34,18 @@ One-to-Few/Many Relationships
 {
     "_id": ObjectId("612d1e835ebee16872a109a4"),
     "full_name": {
-        "first_name": "Putra",
-        "last_name": "Harianja"
+        "first_name": "Theresia",
+        "last_name": "Marpaung"
     },
-    "phone": "08982823170",
+    "phone": "085376983090",
     "addresses": [
         {
-            "address": "jln.Kos Abadi Jaya",
+            "address": "jln.Rakyat",
             "type": "Rumah Utama"
         },
         {
-            "address": "jln.Jaya Sementara",
-            "type": "Rumah Dinas"
+            "address": "jln.Nanggarjati",
+            "type": "Rumah Kontrakan"
         }
     ]
 }
